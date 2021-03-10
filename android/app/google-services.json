@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "23662663672",
+    "project_id": "suit-moment",
+    "storage_bucket": "suit-moment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23662663672:android:9d9dd4c3966ca194d3280d",
+        "android_client_info": {
+          "package_name": "com.bitumnus.speaksouls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23662663672-u6j5kd2u7g9gc6c5the8lcr2nr9fcgao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitumnus.speaksouls",
+            "certificate_hash": "9df7a51d2346c744a48858f5a979b7a131e9099c"
+          }
+        },
+        {
+          "client_id": "23662663672-6v0rm6jc2t9ir14eusq0k38lsfjsklh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUPw3Lqd-TOVBI1WS6a28eWg5kPNbSMQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23662663672-6v0rm6jc2t9ir14eusq0k38lsfjsklh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23662663672:android:acf2265b75dfc272d3280d",
+        "android_client_info": {
+          "package_name": "com.imlikegirls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23662663672-10ktjnlspk7op2pku7marv3hmkgfk1q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imlikegirls",
+            "certificate_hash": "9df7a51d2346c744a48858f5a979b7a131e9099c"
+          }
+        },
+        {
+          "client_id": "23662663672-6v0rm6jc2t9ir14eusq0k38lsfjsklh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUPw3Lqd-TOVBI1WS6a28eWg5kPNbSMQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23662663672-6v0rm6jc2t9ir14eusq0k38lsfjsklh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4591059234718751~5563930053"
+    }
+  ],
+  "configuration_version": "1"
+}
